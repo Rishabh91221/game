@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Ramayan Eternal Path</string>
+    <string name="title_activity_main">Ramayan Eternal Path</string>
+    <string name="package_name">com.ramayan.app</string>
+    <string name="custom_url_scheme">com.ramayan.app</string>
+</resources>
